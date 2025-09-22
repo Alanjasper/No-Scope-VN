@@ -1,0 +1,116 @@
+body {
+    margin: 0px;
+}
+.task-bar {
+    background-repeat: no-repeat;
+    background-image: url("../img/nen-mlg.png");
+    width: 100%;
+    background-size: cover;
+    height: 87px;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#ltb {
+    width: 18%;
+    height: auto;
+}
+.tool-task-bar {
+    width: 40%;
+    height: 95%;
+    display: flex;
+    align-items: center;
+}
+#tb-trangchu {
+    width: 47%;
+    height: auto;
+}
+#tuvan {
+    width: 33%;
+    height: auto;
+    margin-left: 10px;
+}
+#chinh-sach {
+    width: 23%;
+    height: auto;
+}
+#tieude1 {
+    color: rgb(14, 150, 14);
+    font-size: 28px;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+}
+.noidung {
+    font-size: 20px;
+    font-weight: 501;
+    color: black;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.tuvandiscord {
+    width: 100%;
+    background-color: rgb(180, 233, 173);
+    display: block;
+}
+.footer {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(176, 130, 202);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: auto;
+}
+#sup {
+    font-size: 25px;
+    font-weight: 600;
+}
+#discord {
+    height: 110px;
+    width: auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#doge {
+    height: auto;
+    width: 270px;
+}
+#bird {
+    height: auto;
+    width: 270px;
+}
+.tieudef {
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.follow {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.imgx {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-bottom: 50px;
+}

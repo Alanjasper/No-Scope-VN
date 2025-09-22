@@ -1,0 +1,124 @@
+body {
+    margin: 0px;
+}
+.task-bar {
+    background-repeat: no-repeat;
+    background-image: url("../img/nen-mlg.png");
+    width: 100%;
+    background-size: cover;
+    height: 87px;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#ltb {
+    width: 18%;
+    height: auto;
+}
+.tool-task-bar {
+    width: 40%;
+    height: 95%;
+    display: flex;
+    align-items: center;
+}
+#tb-trangchu {
+    width: 47%;
+    height: auto;
+}
+#tuvan {
+    width: 33%;
+    height: auto;
+    margin-left: 7px;
+}
+#chinh-sach {
+    width: 23%;
+    height: auto;
+}
+.body {
+    display: block;
+    background-color: rgb(163, 238, 148);
+}
+#one {
+    padding: 0;
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    color: rgb(14, 77, 14);
+}
+.tieudelon {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 30px;
+    color: rgb(5, 49, 5);
+}
+.tieudenho {
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.noidung {
+    font-size: 20px;
+    padding-top: 7px;
+    padding-bottom: 20px;
+    max-width: 40%;
+    padding: 0;
+    margin:0;
+}
+.Two {
+    margin-left: 20%;
+}
+.footer {
+    padding-top: 40px;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(176, 130, 202);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: auto;
+}
+#sup {
+    font-size: 25px;
+    font-weight: 600;
+}
+#discord {
+    height: 110px;
+    width: auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#doge {
+    height: auto;
+    width: 270px;
+}
+#bird {
+    height: auto;
+    width: 270px;
+}
+.tieudef {
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.follow {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.nd {
+    font-size: 20px;
+    padding-top: 7px;
+    padding-bottom: 50px;
+    max-width: 40%;
+    padding: 0;
+    margin:0;
+}
